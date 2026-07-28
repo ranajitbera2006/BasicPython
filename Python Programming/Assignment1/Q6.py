@@ -1,3 +1,4 @@
+#6. Write a program that prompts the user to input the radius of a circle and outputs the area and circumference of the circle.
 
 rad = float(input("Enter the radius of the circle "))
 area = 3.14* rad**2

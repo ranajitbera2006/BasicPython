@@ -1,3 +1,4 @@
+#4. Write a program which accept principle, rate and time from user and print the simple interest. The formula to calculate simple interest is: simple interest = principle*rate*time / 100
 
 principal = float(input("Enter the value of principal in rupees "))
 rate = float(input("Enter the rate of the interaste "))

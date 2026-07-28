@@ -1,3 +1,5 @@
+#3. Write a small code to display the various datatypes available in Python.
+
 a = 3
 b = 2.3
 c = True

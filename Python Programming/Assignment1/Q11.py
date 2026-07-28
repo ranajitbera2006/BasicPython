@@ -1,3 +1,4 @@
+#11. Given two numbers (integers) as input, print the smaller number.
 
 num1 = int(input("Please enter the first number "))
 num2 = int(input("Please enter the second number "))
