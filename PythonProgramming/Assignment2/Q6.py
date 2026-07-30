@@ -1,3 +1,4 @@
+#6. Write a program that prompts the user to input a number. Program should display the corresponding days to the number. For example, if user type 1 the output should be Sunday. If user type 7, the output should be Saturday.
 
 ch = int(input("Enter a number (1 tp 7) to print corrospond day "))
 while(1):

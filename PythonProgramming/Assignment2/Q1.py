@@ -1,3 +1,4 @@
+#1. Write a program that prompts the user to input three integers and outputs the largest.
 
 num1 = int(input("Please enter the first number "))
 num2 = int(input("Please enter the second number "))

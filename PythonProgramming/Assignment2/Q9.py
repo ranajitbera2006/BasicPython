@@ -1,3 +1,4 @@
+#9. Write a program that asks the user for a positive integer value. The program should calculate the sum of all the integers from 1 up to the number entered. CO2
 
 num = int(input("Enter a positive number to sum "))
 while(1):

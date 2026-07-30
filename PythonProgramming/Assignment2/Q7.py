@@ -1,3 +1,4 @@
+#7. Write a program that prompts the user to input a character and determine the character is vowel or consonant.
 
 char = input("Please a character ")
 ch = char.lower()

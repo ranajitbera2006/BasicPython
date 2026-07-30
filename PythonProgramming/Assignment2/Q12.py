@@ -1,3 +1,4 @@
+#12. Write a program that asks the user to input a positive integer. Your program should find and display the sum of digits of number.
 
 num = int(input("Enter a positive number to sum its digits "))
 while(1):

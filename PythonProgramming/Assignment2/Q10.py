@@ -1,3 +1,4 @@
+#10. Write a program that prompts the user to input a number and prints its factorial.
 
 num = int(input("Enter a positive number to factorial "))
 while(1):
