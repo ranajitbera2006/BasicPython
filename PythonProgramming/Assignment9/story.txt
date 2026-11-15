@@ -1,0 +1,1 @@
+Good code is easy to read, and clean code is even easier to debug.
